@@ -1,0 +1,15 @@
+# Windows系统缓存文件
+Thumbs.db
+# Word临时备份文件
+~$*.docx
+*.tmp
+*.bak
+# Office缓存文件
+*.wbk
+# 临时日志、缓存目录
+*.log
+*.swp
+.DS_Store
+.cache/
+temp/
+tmp/
